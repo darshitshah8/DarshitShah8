@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/Hi.jpg"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -71,17 +77,5 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=darshitshah8&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/darshitshah8/darshitshah8/output/snake.svg" alt="Snake animation" />
 
 ###

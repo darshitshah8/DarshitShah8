@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Darshit Shah from India</p>
+<p align="left">I'm Darshit Shah, A software developer</p>
 
 ###
 

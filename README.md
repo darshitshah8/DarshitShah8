@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/darshitshahbanner1.png" alt="Banner Image">
+  <img src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/darshitshahbanner2.png" alt="Banner Image">
 </p>
 
 <!-- Heading and Introduction -->
@@ -14,8 +14,11 @@
 </p>
 
 <!-- About Me Section -->
+
 - 🌱 I’m currently learning **React**
+
 ---
+
 <!-- Languages Section -->
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -75,4 +78,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darshitshah8&theme=onedark" alt="GitHub Trophies">
 </p>
-

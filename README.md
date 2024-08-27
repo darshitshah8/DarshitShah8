@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/React%20Native-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Electron-%2347848F?style=flat&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=dot-net&logoColor=white" alt=".NET">
 </p>
@@ -47,7 +48,6 @@
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 <!-- Version Control Section -->

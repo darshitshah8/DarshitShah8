@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/darshitshahbanner2.png" alt="Banner Image">
+  <img src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/darshitshahbanner3.png" alt="Banner Image">
 </p>
 
 <!-- Heading and Introduction -->

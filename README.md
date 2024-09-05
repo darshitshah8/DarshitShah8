@@ -78,3 +78,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darshitshah8&theme=onedark" alt="GitHub Trophies">
 </p>
+
+## Need Help !!
+
+### Stackoverflow
+
+<a href="https://stackoverflow.com/questions/78941126/running-electron-app-doesnt-close-after-uninstalling">Running Electron App Doesn't Close After Uninstalling</a>

@@ -15,7 +15,7 @@
 
 <!-- About Me Section -->
 
-- 🌱 I’m currently learning **React** framework and Nodejs for backend
+- 🌱 I’m currently learning **React**
 
 ---
 

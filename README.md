@@ -73,12 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitshah8&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<!-- GitHub Trophies -->
-<h3 align="left">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshitshah8&theme=onedark" alt="GitHub Trophies">
-</p>
-
 ## Need Help !!
 
 ### Stackoverflow

@@ -72,9 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=darshitshah8&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitshah8&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
-## Need Help !!
-
-### Stackoverflow
-
-<a href="https://stackoverflow.com/questions/78941126/running-electron-app-doesnt-close-after-uninstalling">Running Electron App Doesn't Close After Uninstalling</a>

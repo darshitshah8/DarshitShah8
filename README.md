@@ -65,10 +65,3 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
 </p>
-
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshitshah8&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitshah8&layout=compact&theme=radical" alt="Top Languages">
-</p>

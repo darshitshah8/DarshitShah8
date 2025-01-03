@@ -15,8 +15,6 @@
 
 <!-- About Me Section -->
 
-- 🌱 I’m currently learning **React**
-
 ---
 
 <!-- Languages Section -->

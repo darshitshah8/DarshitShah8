@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
 <!-- Frameworks Section -->
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/Electron-%2347848F?style=flat&logo=electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/.NET-%235C2D91?style=flat&logo=dot-net&logoColor=white" alt=".NET">
 </p>
 
 <!-- Databases Section -->

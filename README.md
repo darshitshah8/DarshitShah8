@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/darshitshah8/DarshitShah8/blob/main/image/darshitshahbanner3.png" alt="Banner Image">
-</p>
-
 <!-- Heading and Introduction -->
 <h1 align="center">Hi 👋, I'm Darshit Shah</h1>
 <h3 align="center">A passionate Software Developer</h3>

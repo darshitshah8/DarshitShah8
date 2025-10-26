@@ -1,5 +1,5 @@
 <!-- Heading and Introduction -->
-<h1 align="center">Hi 👋, I'm Darshit Shah</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://darshitshah8.github.io/darshitshah-portfolio/">Darshit Shah</a></h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <!-- Social Links -->

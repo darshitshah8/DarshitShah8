@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Electron-%2347848F?style=flat&logo=electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Solid-%23000000?style=flat&logo=solid&logoColor=white" alt="Solid">
+  <img src="https://img.shields.io/badge/Vue.js-%2340B883?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js">
 </p>
 
 <!-- Databases Section -->
@@ -55,4 +57,11 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+<!-- Operating Systems Section -->
+<h3 align="left">Operating Systems:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-%230072C6?style=flat&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/macOS-%23000000?style=flat&logo=apple&logoColor=white" alt="macOS">
 </p>

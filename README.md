@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/React%20Native-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Electron-%2347848F?style=flat&logo=electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Solid-%23000000?style=flat&logo=solid&logoColor=white" alt="Solid">
@@ -63,5 +62,4 @@
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-%230072C6?style=flat&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/macOS-%23000000?style=flat&logo=apple&logoColor=white" alt="macOS">
 </p>

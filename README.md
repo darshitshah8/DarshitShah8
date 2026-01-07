@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Node.js-%2343853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Solid-%23000000?style=flat&logo=solid&logoColor=white" alt="Solid">
   <img src="https://img.shields.io/badge/Vue.js-%2340B883?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js">
 </p>
 

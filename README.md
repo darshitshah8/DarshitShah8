@@ -22,7 +22,7 @@
 </p> -->
 
 <!-- Frameworks Section -->
-<h3 align="left">Frameworks:</h3>
+<!-- <h3 align="left">Frameworks:</h3> -->
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/React%20Native-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">

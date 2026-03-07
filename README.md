@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 I am a **Software Developer** passionate about building robust and scalable applications. I enjoy exploring new technologies and solving complex problems.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/darshitshah8)
+- 📫 How to reach me: <a href="https://linkedin.com/in/darshitshah8" target="_blank">LinkedIn</a>
 
 ---
 

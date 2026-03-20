@@ -31,7 +31,7 @@
 ### ✦ &nbsp; About Me
 
 &nbsp;&nbsp;&nbsp; I'm **Darshit Shah**, a passionate Software Developer  
-&nbsp;&nbsp;&nbsp; who believes great software is an art form — precise,  
+&nbsp;&nbsp;&nbsp; who believes great software is an art form precise,  
 &nbsp;&nbsp;&nbsp; purposeful, and built to last.
 
 &nbsp;&nbsp;&nbsp; - 🏗️ &nbsp; Building scalable full-stack applications  

@@ -18,7 +18,6 @@ I am a **Software Developer** passionate about building robust and scalable appl
   <img src="https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS">
   <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=next.js&logoColor=white" alt="NextJS">
   <img src="https://img.shields.io/badge/ElectronJS-47848F?style=flat&logo=electron&logoColor=white" alt="ElectronJS">
-  <img src="https://img.shields.io/badge/AstroJS-FF5D01?style=flat&logo=astro&logoColor=white" alt="AstroJS">
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular">
 </p>
 
@@ -28,9 +27,7 @@ I am a **Software Developer** passionate about building robust and scalable appl
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/DBngin-000000?style=flat&logo=database&logoColor=white" alt="DBngin">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" alt="Firebase">
 </p>
 
 #### 🔧 Tools & IDEs
@@ -63,5 +60,7 @@ I am a **Software Developer** passionate about building robust and scalable appl
 </p>
 
 <p align="center">
+  <b>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  </b>
 </p>

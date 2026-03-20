@@ -1,66 +1,113 @@
-# Hi there 👋, I'm [Darshit Shah](https://darshitshah8.github.io/darshit-shah/)
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" alt="Software Developer">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darshit%20Shah&fontSize=70&fontColor=000000&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20Crafting%20Elegant%20Solutions&descSize=16&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 
-### 👨‍💻 About Me
-I am a **Software Developer** passionate about building robust and scalable applications. I enjoy exploring new technologies and solving complex problems.
-- 📫 How to reach me: <a href="https://linkedin.com/in/darshitshah8" target="_blank">LinkedIn</a>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;ReactJS+%7C+VueJS+%7C+NextJS+%7C+NodeJS;Turning+Ideas+into+Scalable+Products;Welcome+to+my+Digital+Atelier" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/darshitshah8">
+  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://darshitshah8.github.io/darshit-shah/">
+  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=safari&logoColor=0a0a0a" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/darshitshah8">
+  <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=0a0a0a" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=darshitshah8&style=for-the-badge&color=D4AF37&labelColor=0a0a0a&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=darshitshah8&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc&bg_color=00000000" width="45%"/>
+
+### ✦ &nbsp; About Me
+
+&nbsp;&nbsp;&nbsp; I'm **Darshit Shah**, a passionate Software Developer  
+&nbsp;&nbsp;&nbsp; who believes great software is an art form — precise,  
+&nbsp;&nbsp;&nbsp; purposeful, and built to last.
+
+&nbsp;&nbsp;&nbsp; - 🏗️ &nbsp; Building scalable full-stack applications  
+&nbsp;&nbsp;&nbsp; - 🌱 &nbsp; Continuously exploring emerging tech  
+&nbsp;&nbsp;&nbsp; - 🎯 &nbsp; Focused on clean architecture & UX  
+&nbsp;&nbsp;&nbsp; - 🤝 &nbsp; Open to collaborations & opportunities  
+&nbsp;&nbsp;&nbsp; - 📫 &nbsp; Reach me at [LinkedIn](https://linkedin.com/in/darshitshah8)
+
+<br clear="right"/>
 
 ---
 
-### 🛠 Technologies I've worked with
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS">
-  <img src="https://img.shields.io/badge/VueJS-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS">
-  <img src="https://img.shields.io/badge/NextJS-black?style=flat&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/ElectronJS-47848F?style=flat&logo=electron&logoColor=white" alt="ElectronJS">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular">
-</p>
+<div align="center">
 
-#### 🖥️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
-</p>
+### ✦ &nbsp; Tech Stack &amp; Expertise
 
-#### 🔧 Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white" alt="Linear">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-</p>
+</div>
 
-#### 📦 Version Control & OS
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white" alt="MacOS">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
-</p>
+<br/>
 
-#### 📈 Methodologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Scrum-62A5D7?style=flat&logo=scrumalliance&logoColor=white" alt="Scrum">
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat&logo=atlassian&logoColor=white" alt="Agile">
-</p>
+**`⬡` &nbsp; Frontend**
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/darshitshah8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![VueJS](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<p align="center">
-  <b>
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  </b>
-</p>
+**`⬡` &nbsp; Backend & Databases**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**`⬡` &nbsp; Tools, Version Control & OS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**`⬡` &nbsp; Methodologies**
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-62A5D7?style=flat-square&logo=scrumalliance&logoColor=white)
+
+---
+
+<div align="center">
+
+### ✦ &nbsp; Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3720&hide_border=true&radius=6" width="100%" alt="Darshit's Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+```
+  ✦  "Code is like humor. When you have to explain it, it's bad."  ✦
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>

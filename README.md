@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darshit%20Shah&fontSize=70&fontColor=000000&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20Crafting%20Elegant%20Solutions&descSize=16&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darshit%20Shah&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20Crafting%20Elegant%20Solutions&descSize=16&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;ReactJS+%7C+VueJS+%7C+NextJS+%7C+NodeJS;Turning+Ideas+into+Scalable+Products;Welcome+to+my+Digital+Atelier" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;ReactJS+%7C+VueJS+%7C+NextJS+%7C+NodeJS;Turning+Ideas+into+Scalable+Products;Welcome+to+my+Digital+Atelier" alt="Typing SVG" />
 
 <br/>
 

@@ -1,113 +1,95 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+  <img src="./assets/header-light.svg" width="100%" alt="Darshit Shah, software developer. Business software, built end to end with Claude as my pair programmer."/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darshit%20Shah&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%E2%80%94%20Crafting%20Elegant%20Solutions&descSize=16&descAlignY=58&descColor=aaaaaa&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;ReactJS+%7C+VueJS+%7C+NextJS+%7C+NodeJS;Turning+Ideas+into+Scalable+Products;Welcome+to+my+Digital+Atelier" alt="Typing SVG" />
+<p align="center">
+  <a href="https://linkedin.com/in/darshitshah8"><img src="https://img.shields.io/badge/LinkedIn-C15F3C?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://darshitshah8.github.io/darshit-shah/"><img src="https://img.shields.io/badge/Portfolio-C15F3C?style=for-the-badge&logo=googlechrome&logoColor=FAF9F5" alt="Portfolio"/></a>
+</p>
 
 <br/>
 
-<a href="https://linkedin.com/in/darshitshah8">
-  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://darshitshah8.github.io/darshit-shah/">
-  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=safari&logoColor=0a0a0a" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/darshitshah8">
-  <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=0a0a0a" alt="GitHub"/>
-</a>
+## Hello, I'm Darshit
+
+I'm a software developer who builds business software end to end: database, API, interface and deployment.
+
+I work with **Claude Code** as my pair programmer. I decide what to build, how the data should be shaped and what "done" means; Claude helps me write, test and review it faster. My product **CronHour** was built this way from the first commit.
+
+<br/>
+
+## Featured work
+
+### [CronHour](https://app.cronhour.com)
+
+A work-management platform for small firms, replacing the mix of spreadsheets and chat groups they usually run on.
+
+| | |
+|---|---|
+| **Work** | Projects, tasks, and custom workflows where each step can be held by several people |
+| **Sales** | Leads, clients, quotations, invoices, payments and follow-ups |
+| **People** | Attendance with face and PIN check-in, leave, payroll and salary slips |
+| **Platform** | Roles with fine-grained permissions, per-organization subscriptions and plan limits |
+
+`React` `TypeScript` `Tailwind CSS` `Fastify` `Prisma` `PostgreSQL` `Vitest` `Playwright`
+
+<img src="https://img.shields.io/badge/Built_with-Claude_Code-F0EEE6?style=flat-square&logo=claude&logoColor=D97757&labelColor=F0EEE6" alt="Built with Claude Code"/>
+&nbsp; <a href="https://app.cronhour.com"><img src="https://img.shields.io/badge/Open-app.cronhour.com-C15F3C?style=flat-square&labelColor=F0EEE6" alt="Open app.cronhour.com"/></a>
+
+<br/>
+
+## How I build
+
+1. **Plan first.** Every feature starts as a written issue: the problem, the proposal, and what was considered and rejected.
+2. **Small steps.** One milestone at a time, each with its own tests and documentation.
+3. **Verify.** Type checks, unit tests and browser tests run before anything is merged.
+4. **Keep it readable.** If a non-technical owner cannot follow the screen, it is not finished.
+
+<br/>
+
+## Toolbox
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-F0EEE6?style=flat-square&logo=react&logoColor=C15F3C)
+![Next.js](https://img.shields.io/badge/Next.js-F0EEE6?style=flat-square&logo=nextdotjs&logoColor=C15F3C)
+![Vue](https://img.shields.io/badge/Vue-F0EEE6?style=flat-square&logo=vuedotjs&logoColor=C15F3C)
+![Angular](https://img.shields.io/badge/Angular-F0EEE6?style=flat-square&logo=angular&logoColor=C15F3C)
+![TypeScript](https://img.shields.io/badge/TypeScript-F0EEE6?style=flat-square&logo=typescript&logoColor=C15F3C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0EEE6?style=flat-square&logo=javascript&logoColor=C15F3C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-F0EEE6?style=flat-square&logo=tailwindcss&logoColor=C15F3C)
+![Electron](https://img.shields.io/badge/Electron-F0EEE6?style=flat-square&logo=electron&logoColor=C15F3C)
+
+**Backend and data**
+
+![Node.js](https://img.shields.io/badge/Node.js-F0EEE6?style=flat-square&logo=nodedotjs&logoColor=C15F3C)
+![Fastify](https://img.shields.io/badge/Fastify-F0EEE6?style=flat-square&logo=fastify&logoColor=C15F3C)
+![Prisma](https://img.shields.io/badge/Prisma-F0EEE6?style=flat-square&logo=prisma&logoColor=C15F3C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F0EEE6?style=flat-square&logo=postgresql&logoColor=C15F3C)
+![MongoDB](https://img.shields.io/badge/MongoDB-F0EEE6?style=flat-square&logo=mongodb&logoColor=C15F3C)
+![SQLite](https://img.shields.io/badge/SQLite-F0EEE6?style=flat-square&logo=sqlite&logoColor=C15F3C)
+![Supabase](https://img.shields.io/badge/Supabase-F0EEE6?style=flat-square&logo=supabase&logoColor=C15F3C)
+
+**Testing and delivery**
+
+![Vitest](https://img.shields.io/badge/Vitest-F0EEE6?style=flat-square&logo=vitest&logoColor=C15F3C)
+![Playwright](https://img.shields.io/badge/Playwright-F0EEE6?style=flat-square&logo=playwright&logoColor=C15F3C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F0EEE6?style=flat-square&logo=githubactions&logoColor=C15F3C)
+![Git](https://img.shields.io/badge/Git-F0EEE6?style=flat-square&logo=git&logoColor=C15F3C)
+![Claude Code](https://img.shields.io/badge/Claude_Code-F0EEE6?style=flat-square&logo=claude&logoColor=C15F3C)
+
+<br/>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=262624&color=B0AEA5&line=D97757&point=FAF9F5&area=true&area_color=D97757&hide_border=true&radius=12&custom_title=Contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=F0EEE6&color=5E5D59&line=C15F3C&point=141413&area=true&area_color=D97757&hide_border=true&radius=12&custom_title=Contributions" width="100%" alt="Darshit's contribution graph"/>
+</picture>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshitshah8&style=for-the-badge&color=D4AF37&labelColor=0a0a0a&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=darshitshah8&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=cccccc&bg_color=00000000" width="45%"/>
-
-### ✦ &nbsp; About Me
-
-&nbsp;&nbsp;&nbsp; I'm **Darshit Shah**, a passionate Software Developer  
-&nbsp;&nbsp;&nbsp; who believes great software is an art form precise,  
-&nbsp;&nbsp;&nbsp; purposeful, and built to last.
-
-&nbsp;&nbsp;&nbsp; - 🏗️ &nbsp; Building scalable full-stack applications  
-&nbsp;&nbsp;&nbsp; - 🌱 &nbsp; Continuously exploring emerging tech  
-&nbsp;&nbsp;&nbsp; - 🎯 &nbsp; Focused on clean architecture & UX  
-&nbsp;&nbsp;&nbsp; - 🤝 &nbsp; Open to collaborations & opportunities  
-&nbsp;&nbsp;&nbsp; - 📫 &nbsp; Reach me at [LinkedIn](https://linkedin.com/in/darshitshah8)
-
-<br clear="right"/>
-
----
-
-
-<div align="center">
-
-### ✦ &nbsp; Tech Stack &amp; Expertise
-
-</div>
-
-<br/>
-
-**`⬡` &nbsp; Frontend**
-
-![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![VueJS](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**`⬡` &nbsp; Backend & Databases**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**`⬡` &nbsp; Tools, Version Control & OS**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**`⬡` &nbsp; Methodologies**
-
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=atlassian&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-62A5D7?style=flat-square&logo=scrumalliance&logoColor=white)
-
----
-
-<div align="center">
-
-### ✦ &nbsp; Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3720&hide_border=true&radius=6" width="100%" alt="Darshit's Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
-
-```
-  ✦  "Code is like humor. When you have to explain it, it's bad."  ✦
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <sub>Designed in a warm, paper-like palette inspired by Claude. Thanks for reading.</sub>
+</p>

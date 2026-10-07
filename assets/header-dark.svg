@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" role="img" aria-labelledby="title desc">
+  <title id="title">Darshit Shah</title>
+  <desc id="desc">Software developer. Business software, built end to end with Claude as pair programmer.</desc>
+  <rect width="880" height="280" rx="20" fill="#262624"/>
+
+  <circle cx="58" cy="66" r="5" fill="#D97757"/>
+  <text x="74" y="71" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.6" fill="#D4A27F">SOFTWARE DEVELOPER</text>
+  <text x="52" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="68" fill="#FAF9F5">Darshit Shah</text>
+  <text font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#B0AEA5">
+    <tspan x="55" y="194">Business software, built end to end</tspan>
+    <tspan x="55" y="220">with Claude as my pair programmer.</tspan>
+  </text>
+
+  <rect x="540" y="48" width="292" height="184" rx="14" fill="#1F1E1D" stroke="#3D3C38"/>
+  <circle cx="564" cy="72" r="5" fill="#3D3C38"/>
+  <circle cx="582" cy="72" r="5" fill="#3D3C38"/>
+  <circle cx="600" cy="72" r="5" fill="#3D3C38"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="562" y="114" fill="#FAF9F5"><tspan fill="#D97757" font-weight="700">&gt;</tspan> claude</text>
+    <circle cx="567" cy="139" r="3.5" fill="#D97757"/>
+    <text x="582" y="144" fill="#B0AEA5">Reading the codebase</text>
+    <circle cx="567" cy="167" r="3.5" fill="#D97757"/>
+    <text x="582" y="172" fill="#B0AEA5">Writing the tests</text>
+    <circle cx="567" cy="195" r="3.5" fill="#D97757"/>
+    <text x="582" y="200" fill="#FAF9F5">Shipping CronHour</text>
+  </g>
+  <rect x="729" y="187" width="8" height="16" fill="#D97757">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

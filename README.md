@@ -81,15 +81,6 @@ A work-management platform for small firms, replacing the mix of spreadsheets an
 
 <br/>
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=262624&color=B0AEA5&line=D97757&point=FAF9F5&area=true&area_color=D97757&hide_border=true&radius=12&custom_title=Contributions"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshitshah8&bg_color=F0EEE6&color=5E5D59&line=C15F3C&point=141413&area=true&area_color=D97757&hide_border=true&radius=12&custom_title=Contributions" width="100%" alt="Darshit's contribution graph"/>
-</picture>
-
-<br/><br/>
-
 <p align="center">
   <sub>Designed in a warm, paper-like palette inspired by Claude. Thanks for reading.</sub>
 </p>

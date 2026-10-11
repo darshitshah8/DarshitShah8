@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/darshitshah8"><img src="https://img.shields.io/badge/LinkedIn-C15F3C?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://darshitshah8.github.io/darshit-shah/"><img src="https://img.shields.io/badge/Portfolio-C15F3C?style=for-the-badge&logo=googlechrome&logoColor=FAF9F5" alt="Portfolio"/></a>
+  <a href="https://darshitshah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C15F3C?style=for-the-badge&logo=googlechrome&logoColor=FAF9F5" alt="Portfolio"/></a>
 </p>
 
 <br/>

@@ -13,7 +13,7 @@
 
 ## Featured work
 
-### [CronHour](https://app.cronhour.com)
+### [CronHour](https://cronhour.com)
 
 A work-management platform for small firms, replacing the mix of spreadsheets and chat groups they usually run on.
 
@@ -27,7 +27,7 @@ A work-management platform for small firms, replacing the mix of spreadsheets an
 `React` `TypeScript` `Tailwind CSS` `Fastify` `Prisma` `PostgreSQL` `Vitest` `Playwright`
 
 <img src="https://img.shields.io/badge/Built_with-Claude_Code-F0EEE6?style=flat-square&logo=claude&logoColor=D97757&labelColor=F0EEE6" alt="Built with Claude Code"/>
-&nbsp; <a href="https://cronhour.com"><img src="https://img.shields.io/badge/Open-app.cronhour.com-C15F3C?style=flat-square&labelColor=F0EEE6" alt="Open cronhour.com"/></a>
+&nbsp; <a href="https://cronhour.com"><img src="https://img.shields.io/badge/Open-cronhour.com-C15F3C?style=flat-square&labelColor=F0EEE6" alt="Open cronhour.com"/></a>
 
 <br/>
 
